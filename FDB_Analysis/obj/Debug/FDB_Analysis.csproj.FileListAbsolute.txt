@@ -1,0 +1,9 @@
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\bin\Debug\FDB_Analysis.exe.config
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\bin\Debug\FDB_Analysis.exe
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\bin\Debug\FDB_Analysis.pdb
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\obj\Debug\FDB_Analysis.csprojResolveAssemblyReference.cache
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\obj\Debug\FDB_Analysis.Form1.resources
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\obj\Debug\FDB_Analysis.Properties.Resources.resources
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\obj\Debug\FDB_Analysis.csproj.GenerateResource.Cache
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\obj\Debug\FDB_Analysis.exe
+H:\08-DevDir\01-CSharp\FDB_Analysis\FDB_Analysis\obj\Debug\FDB_Analysis.pdb
